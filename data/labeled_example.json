@@ -1,0 +1,2612 @@
+{
+    "id": "r1496",
+    "text": "Church of Scientology does not see humor in website dedicated to Tom Cruise\n\nSeptember 25, 2005 \n\nhttp://ScienTOMogy.info has apparently received a fax and at least 6 emails in the span of 2 days from Scientology lawyer Ava Paquette of Moxon & Kobrin threatening a lawsuit of up to $100,000 if the domain name ownership is not transferred. This type of letter is often called a cease and desist letter. \nThe owners of scienTOMogy.info have posted the complaints and their replies, saying that the site simply expresses opinion, does not make any claims, and clearly states that it has no connection to the Church of Scientology. \"The site was put up as a single source to view all the recent hype Tom has made about the church - it does nothing but show Tom, so we are at a loss as to why the church is acting so rashly.\" \nThe Church of Scientology is notorious for pursing legal action against its critics, under the name of the \"Religious Technology Center\" (RTC). It previously made headlines when it used the US's Digital Millennium Copyright Act to remove xenu.net, a site critical of Scientology, from Google's listings.",
+    "tokens": [
+        "Church",
+        "of",
+        "Scientology",
+        "does",
+        "not",
+        "see",
+        "humor",
+        "in",
+        "website",
+        "dedicated",
+        "to",
+        "Tom",
+        "Cruise",
+        "\n\n",
+        "September",
+        "25",
+        ",",
+        "2005",
+        "\n\n",
+        "http://ScienTOMogy.info",
+        "has",
+        "apparently",
+        "received",
+        "a",
+        "fax",
+        "and",
+        "at",
+        "least",
+        "6",
+        "emails",
+        "in",
+        "the",
+        "span",
+        "of",
+        "2",
+        "days",
+        "from",
+        "Scientology",
+        "lawyer",
+        "Ava",
+        "Paquette",
+        "of",
+        "Moxon",
+        "&",
+        "Kobrin",
+        "threatening",
+        "a",
+        "lawsuit",
+        "of",
+        "up",
+        "to",
+        "$",
+        "100,000",
+        "if",
+        "the",
+        "domain",
+        "name",
+        "ownership",
+        "is",
+        "not",
+        "transferred",
+        ".",
+        "This",
+        "type",
+        "of",
+        "letter",
+        "is",
+        "often",
+        "called",
+        "a",
+        "cease",
+        "and",
+        "desist",
+        "letter",
+        ".",
+        "\n",
+        "The",
+        "owners",
+        "of",
+        "scienTOMogy.info",
+        "have",
+        "posted",
+        "the",
+        "complaints",
+        "and",
+        "their",
+        "replies",
+        ",",
+        "saying",
+        "that",
+        "the",
+        "site",
+        "simply",
+        "expresses",
+        "opinion",
+        ",",
+        "does",
+        "not",
+        "make",
+        "any",
+        "claims",
+        ",",
+        "and",
+        "clearly",
+        "states",
+        "that",
+        "it",
+        "has",
+        "no",
+        "connection",
+        "to",
+        "the",
+        "Church",
+        "of",
+        "Scientology",
+        ".",
+        "\"",
+        "The",
+        "site",
+        "was",
+        "put",
+        "up",
+        "as",
+        "a",
+        "single",
+        "source",
+        "to",
+        "view",
+        "all",
+        "the",
+        "recent",
+        "hype",
+        "Tom",
+        "has",
+        "made",
+        "about",
+        "the",
+        "church",
+        "-",
+        "it",
+        "does",
+        "nothing",
+        "but",
+        "show",
+        "Tom",
+        ",",
+        "so",
+        "we",
+        "are",
+        "at",
+        "a",
+        "loss",
+        "as",
+        "to",
+        "why",
+        "the",
+        "church",
+        "is",
+        "acting",
+        "so",
+        "rashly",
+        ".",
+        "\"",
+        "\n",
+        "The",
+        "Church",
+        "of",
+        "Scientology",
+        "is",
+        "notorious",
+        "for",
+        "pursing",
+        "legal",
+        "action",
+        "against",
+        "its",
+        "critics",
+        ",",
+        "under",
+        "the",
+        "name",
+        "of",
+        "the",
+        "\"",
+        "Religious",
+        "Technology",
+        "Center",
+        "\"",
+        "(",
+        "RTC",
+        ")",
+        ".",
+        "It",
+        "previously",
+        "made",
+        "headlines",
+        "when",
+        "it",
+        "used",
+        "the",
+        "US",
+        "'s",
+        "Digital",
+        "Millennium",
+        "Copyright",
+        "Act",
+        "to",
+        "remove",
+        "xenu.net",
+        ",",
+        "a",
+        "site",
+        "critical",
+        "of",
+        "Scientology",
+        ",",
+        "from",
+        "Google",
+        "'s",
+        "listings",
+        "."
+    ],
+    "nps": {
+        "np0": {
+            "text": "Church of Scientology",
+            "first_char": 0,
+            "last_char": 21,
+            "first_token": 0,
+            "last_token": 2,
+            "id": "np0"
+        },
+        "np1": {
+            "text": "humor",
+            "first_char": 35,
+            "last_char": 40,
+            "first_token": 6,
+            "last_token": 6,
+            "id": "np1"
+        },
+        "np2": {
+            "text": "website",
+            "first_char": 44,
+            "last_char": 51,
+            "first_token": 8,
+            "last_token": 8,
+            "id": "np2"
+        },
+        "np3": {
+            "text": "Tom Cruise",
+            "first_char": 65,
+            "last_char": 75,
+            "first_token": 11,
+            "last_token": 12,
+            "id": "np3"
+        },
+        "np4": {
+            "text": "September 25, 2005",
+            "first_char": 77,
+            "last_char": 95,
+            "first_token": 14,
+            "last_token": 17,
+            "id": "np4"
+        },
+        "np5": {
+            "text": "a fax",
+            "first_char": 146,
+            "last_char": 151,
+            "first_token": 23,
+            "last_token": 24,
+            "id": "np5"
+        },
+        "np6": {
+            "text": "at least 6 emails",
+            "first_char": 156,
+            "last_char": 173,
+            "first_token": 26,
+            "last_token": 29,
+            "id": "np6"
+        },
+        "np7": {
+            "text": "the span of 2 days",
+            "first_char": 177,
+            "last_char": 195,
+            "first_token": 31,
+            "last_token": 35,
+            "id": "np7"
+        },
+        "np8": {
+            "text": "Scientology lawyer Ava Paquette",
+            "first_char": 201,
+            "last_char": 232,
+            "first_token": 37,
+            "last_token": 40,
+            "id": "np8"
+        },
+        "np9": {
+            "text": "Moxon & Kobrin",
+            "first_char": 236,
+            "last_char": 250,
+            "first_token": 42,
+            "last_token": 44,
+            "id": "np9"
+        },
+        "np10": {
+            "text": "a lawsuit",
+            "first_char": 263,
+            "last_char": 272,
+            "first_token": 46,
+            "last_token": 47,
+            "id": "np10"
+        },
+        "np11": {
+            "text": "the domain name ownership",
+            "first_char": 294,
+            "last_char": 319,
+            "first_token": 54,
+            "last_token": 57,
+            "id": "np11"
+        },
+        "np12": {
+            "text": "This type",
+            "first_char": 340,
+            "last_char": 349,
+            "first_token": 62,
+            "last_token": 63,
+            "id": "np12"
+        },
+        "np13": {
+            "text": "letter",
+            "first_char": 353,
+            "last_char": 359,
+            "first_token": 65,
+            "last_token": 65,
+            "id": "np13"
+        },
+        "np14": {
+            "text": "The owners",
+            "first_char": 404,
+            "last_char": 414,
+            "first_token": 76,
+            "last_token": 77,
+            "id": "np14"
+        },
+        "np15": {
+            "text": "the complaints",
+            "first_char": 447,
+            "last_char": 461,
+            "first_token": 82,
+            "last_token": 83,
+            "id": "np15"
+        },
+        "np16": {
+            "text": "their replies",
+            "first_char": 466,
+            "last_char": 479,
+            "first_token": 85,
+            "last_token": 86,
+            "id": "np16"
+        },
+        "np17": {
+            "text": "the site",
+            "first_char": 493,
+            "last_char": 501,
+            "first_token": 90,
+            "last_token": 91,
+            "id": "np17"
+        },
+        "np18": {
+            "text": "opinion",
+            "first_char": 519,
+            "last_char": 526,
+            "first_token": 94,
+            "last_token": 94,
+            "id": "np18"
+        },
+        "np19": {
+            "text": "any claims",
+            "first_char": 542,
+            "last_char": 552,
+            "first_token": 99,
+            "last_token": 100,
+            "id": "np19"
+        },
+        "np20": {
+            "text": "no connection",
+            "first_char": 585,
+            "last_char": 598,
+            "first_token": 108,
+            "last_token": 109,
+            "id": "np20"
+        },
+        "np21": {
+            "text": "the Church of Scientology",
+            "first_char": 602,
+            "last_char": 627,
+            "first_token": 111,
+            "last_token": 114,
+            "id": "np21"
+        },
+        "np22": {
+            "text": "The site",
+            "first_char": 630,
+            "last_char": 638,
+            "first_token": 117,
+            "last_token": 118,
+            "id": "np22"
+        },
+        "np23": {
+            "text": "a single source",
+            "first_char": 653,
+            "last_char": 668,
+            "first_token": 123,
+            "last_token": 125,
+            "id": "np23"
+        },
+        "np24": {
+            "text": "all the recent hype",
+            "first_char": 677,
+            "last_char": 696,
+            "first_token": 128,
+            "last_token": 131,
+            "id": "np24"
+        },
+        "np25": {
+            "text": "Tom",
+            "first_char": 697,
+            "last_char": 700,
+            "first_token": 132,
+            "last_token": 132,
+            "id": "np25"
+        },
+        "np26": {
+            "text": "the church",
+            "first_char": 716,
+            "last_char": 726,
+            "first_token": 136,
+            "last_token": 137,
+            "id": "np26"
+        },
+        "np27": {
+            "text": "nothing",
+            "first_char": 737,
+            "last_char": 744,
+            "first_token": 141,
+            "last_token": 141,
+            "id": "np27"
+        },
+        "np28": {
+            "text": "Tom",
+            "first_char": 754,
+            "last_char": 757,
+            "first_token": 144,
+            "last_token": 144,
+            "id": "np28"
+        },
+        "np29": {
+            "text": "we",
+            "first_char": 762,
+            "last_char": 764,
+            "first_token": 147,
+            "last_token": 147,
+            "id": "np29"
+        },
+        "np30": {
+            "text": "a loss",
+            "first_char": 772,
+            "last_char": 778,
+            "first_token": 150,
+            "last_token": 151,
+            "id": "np30"
+        },
+        "np31": {
+            "text": "the church",
+            "first_char": 789,
+            "last_char": 799,
+            "first_token": 155,
+            "last_token": 156,
+            "id": "np31"
+        },
+        "np32": {
+            "text": "The Church of Scientology",
+            "first_char": 823,
+            "last_char": 848,
+            "first_token": 164,
+            "last_token": 167,
+            "id": "np32"
+        },
+        "np33": {
+            "text": "legal action",
+            "first_char": 874,
+            "last_char": 886,
+            "first_token": 172,
+            "last_token": 173,
+            "id": "np33"
+        },
+        "np34": {
+            "text": "its critics",
+            "first_char": 895,
+            "last_char": 906,
+            "first_token": 175,
+            "last_token": 176,
+            "id": "np34"
+        },
+        "np35": {
+            "text": "the name",
+            "first_char": 914,
+            "last_char": 922,
+            "first_token": 179,
+            "last_token": 180,
+            "id": "np35"
+        },
+        "np36": {
+            "text": "the \"Religious Technology Center\"",
+            "first_char": 926,
+            "last_char": 959,
+            "first_token": 182,
+            "last_token": 187,
+            "id": "np36"
+        },
+        "np37": {
+            "text": "RTC",
+            "first_char": 961,
+            "last_char": 964,
+            "first_token": 189,
+            "last_token": 189,
+            "id": "np37"
+        },
+        "np38": {
+            "text": "headlines",
+            "first_char": 986,
+            "last_char": 995,
+            "first_token": 195,
+            "last_token": 195,
+            "id": "np38"
+        },
+        "np39": {
+            "text": "the US's Digital Millennium Copyright Act",
+            "first_char": 1009,
+            "last_char": 1050,
+            "first_token": 199,
+            "last_token": 205,
+            "id": "np39"
+        },
+        "np40": {
+            "text": "xenu.net",
+            "first_char": 1061,
+            "last_char": 1069,
+            "first_token": 208,
+            "last_token": 208,
+            "id": "np40"
+        },
+        "np41": {
+            "text": "a site",
+            "first_char": 1071,
+            "last_char": 1077,
+            "first_token": 210,
+            "last_token": 211,
+            "id": "np41"
+        },
+        "np42": {
+            "text": "Scientology",
+            "first_char": 1090,
+            "last_char": 1101,
+            "first_token": 214,
+            "last_token": 214,
+            "id": "np42"
+        },
+        "np43": {
+            "text": "Google's listings",
+            "first_char": 1108,
+            "last_char": 1125,
+            "first_token": 217,
+            "last_token": 219,
+            "id": "np43"
+        },
+        "np44": {
+            "text": "US",
+            "first_char": 1013,
+            "last_char": 1015,
+            "first_token": 200,
+            "last_token": 200,
+            "id": "np44"
+        }
+    },
+    "np_relations": [
+        {
+            "anchor": "np0",
+            "complement": "np44",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc32"
+        },
+        {
+            "anchor": "np1",
+            "complement": "np3",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc3"
+        },
+        {
+            "anchor": "np1",
+            "complement": "np25",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc3"
+        },
+        {
+            "anchor": "np1",
+            "complement": "np28",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc3"
+        },
+        {
+            "anchor": "np1",
+            "complement": "np2",
+            "preposition": "on",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np1",
+            "complement": "np17",
+            "preposition": "on",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np1",
+            "complement": "np22",
+            "preposition": "on",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np1",
+            "complement": "np23",
+            "preposition": "on",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np1",
+            "complement": "np2",
+            "preposition": "in",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np1",
+            "complement": "np17",
+            "preposition": "in",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np1",
+            "complement": "np22",
+            "preposition": "in",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np1",
+            "complement": "np23",
+            "preposition": "in",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np2",
+            "complement": "np14",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc13"
+        },
+        {
+            "anchor": "np2",
+            "complement": "np29",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc13"
+        },
+        {
+            "anchor": "np2",
+            "complement": "np3",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc3"
+        },
+        {
+            "anchor": "np2",
+            "complement": "np25",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc3"
+        },
+        {
+            "anchor": "np2",
+            "complement": "np28",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc3"
+        },
+        {
+            "anchor": "np2",
+            "complement": "np0",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np2",
+            "complement": "np21",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np2",
+            "complement": "np26",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np2",
+            "complement": "np31",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np2",
+            "complement": "np32",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np3",
+            "complement": "np0",
+            "preposition": "member(s) of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np3",
+            "complement": "np21",
+            "preposition": "member(s) of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np3",
+            "complement": "np26",
+            "preposition": "member(s) of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np3",
+            "complement": "np31",
+            "preposition": "member(s) of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np3",
+            "complement": "np32",
+            "preposition": "member(s) of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np3",
+            "complement": "np42",
+            "preposition": "member(s) of",
+            "complement_coref_cluster_id": "cc29"
+        },
+        {
+            "anchor": "np3",
+            "complement": "np44",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc32"
+        },
+        {
+            "anchor": "np5",
+            "complement": "np14",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc13"
+        },
+        {
+            "anchor": "np5",
+            "complement": "np29",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc13"
+        },
+        {
+            "anchor": "np5",
+            "complement": "np11",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc10"
+        },
+        {
+            "anchor": "np5",
+            "complement": "np10",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc9"
+        },
+        {
+            "anchor": "np5",
+            "complement": "np9",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc8"
+        },
+        {
+            "anchor": "np5",
+            "complement": "np8",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc7"
+        },
+        {
+            "anchor": "np5",
+            "complement": "np7",
+            "preposition": "during",
+            "complement_coref_cluster_id": "cc6"
+        },
+        {
+            "anchor": "np5",
+            "complement": "np2",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np5",
+            "complement": "np17",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np5",
+            "complement": "np22",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np5",
+            "complement": "np23",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np6",
+            "complement": "np14",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc13"
+        },
+        {
+            "anchor": "np6",
+            "complement": "np29",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc13"
+        },
+        {
+            "anchor": "np6",
+            "complement": "np11",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc10"
+        },
+        {
+            "anchor": "np6",
+            "complement": "np10",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc9"
+        },
+        {
+            "anchor": "np6",
+            "complement": "np9",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc8"
+        },
+        {
+            "anchor": "np6",
+            "complement": "np8",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc7"
+        },
+        {
+            "anchor": "np6",
+            "complement": "np7",
+            "preposition": "over",
+            "complement_coref_cluster_id": "cc6"
+        },
+        {
+            "anchor": "np6",
+            "complement": "np7",
+            "preposition": "during",
+            "complement_coref_cluster_id": "cc6"
+        },
+        {
+            "anchor": "np6",
+            "complement": "np2",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np6",
+            "complement": "np17",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np6",
+            "complement": "np22",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np6",
+            "complement": "np23",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np8",
+            "complement": "np9",
+            "preposition": "member(s) of",
+            "complement_coref_cluster_id": "cc8"
+        },
+        {
+            "anchor": "np8",
+            "complement": "np42",
+            "preposition": "member(s) of",
+            "complement_coref_cluster_id": "cc29"
+        },
+        {
+            "anchor": "np8",
+            "complement": "np9",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc8"
+        },
+        {
+            "anchor": "np8",
+            "complement": "np0",
+            "preposition": "member(s) of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np8",
+            "complement": "np21",
+            "preposition": "member(s) of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np8",
+            "complement": "np26",
+            "preposition": "member(s) of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np8",
+            "complement": "np31",
+            "preposition": "member(s) of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np8",
+            "complement": "np32",
+            "preposition": "member(s) of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np8",
+            "complement": "np44",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc32"
+        },
+        {
+            "anchor": "np10",
+            "complement": "np15",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc14"
+        },
+        {
+            "anchor": "np10",
+            "complement": "np14",
+            "preposition": "against",
+            "complement_coref_cluster_id": "cc13"
+        },
+        {
+            "anchor": "np10",
+            "complement": "np29",
+            "preposition": "against",
+            "complement_coref_cluster_id": "cc13"
+        },
+        {
+            "anchor": "np10",
+            "complement": "np11",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc10"
+        },
+        {
+            "anchor": "np10",
+            "complement": "np9",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc8"
+        },
+        {
+            "anchor": "np10",
+            "complement": "np8",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc7"
+        },
+        {
+            "anchor": "np10",
+            "complement": "np2",
+            "preposition": "against",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np10",
+            "complement": "np17",
+            "preposition": "against",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np10",
+            "complement": "np22",
+            "preposition": "against",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np10",
+            "complement": "np23",
+            "preposition": "against",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np10",
+            "complement": "np0",
+            "preposition": "by",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np10",
+            "complement": "np21",
+            "preposition": "by",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np10",
+            "complement": "np26",
+            "preposition": "by",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np10",
+            "complement": "np31",
+            "preposition": "by",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np10",
+            "complement": "np32",
+            "preposition": "by",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np10",
+            "complement": "np44",
+            "preposition": "in",
+            "complement_coref_cluster_id": "cc32"
+        },
+        {
+            "anchor": "np11",
+            "complement": "np2",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np11",
+            "complement": "np17",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np11",
+            "complement": "np22",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np11",
+            "complement": "np23",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np12",
+            "complement": "np13",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc12"
+        },
+        {
+            "anchor": "np13",
+            "complement": "np33",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc22"
+        },
+        {
+            "anchor": "np14",
+            "complement": "np2",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np14",
+            "complement": "np17",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np14",
+            "complement": "np22",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np14",
+            "complement": "np23",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np15",
+            "complement": "np14",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc13"
+        },
+        {
+            "anchor": "np15",
+            "complement": "np29",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc13"
+        },
+        {
+            "anchor": "np15",
+            "complement": "np9",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc8"
+        },
+        {
+            "anchor": "np15",
+            "complement": "np8",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc7"
+        },
+        {
+            "anchor": "np15",
+            "complement": "np6",
+            "preposition": "in",
+            "complement_coref_cluster_id": "cc5"
+        },
+        {
+            "anchor": "np15",
+            "complement": "np5",
+            "preposition": "in",
+            "complement_coref_cluster_id": "cc4"
+        },
+        {
+            "anchor": "np15",
+            "complement": "np2",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np15",
+            "complement": "np17",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np15",
+            "complement": "np22",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np15",
+            "complement": "np23",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np15",
+            "complement": "np2",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np15",
+            "complement": "np17",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np15",
+            "complement": "np22",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np15",
+            "complement": "np23",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np15",
+            "complement": "np0",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np15",
+            "complement": "np21",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np15",
+            "complement": "np26",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np15",
+            "complement": "np31",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np15",
+            "complement": "np32",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np16",
+            "complement": "np15",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc14"
+        },
+        {
+            "anchor": "np16",
+            "complement": "np14",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc13"
+        },
+        {
+            "anchor": "np16",
+            "complement": "np29",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc13"
+        },
+        {
+            "anchor": "np16",
+            "complement": "np9",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc8"
+        },
+        {
+            "anchor": "np16",
+            "complement": "np8",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc7"
+        },
+        {
+            "anchor": "np16",
+            "complement": "np6",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc5"
+        },
+        {
+            "anchor": "np16",
+            "complement": "np5",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc4"
+        },
+        {
+            "anchor": "np16",
+            "complement": "np2",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np16",
+            "complement": "np17",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np16",
+            "complement": "np22",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np16",
+            "complement": "np23",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np16",
+            "complement": "np0",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np16",
+            "complement": "np21",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np16",
+            "complement": "np26",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np16",
+            "complement": "np31",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np16",
+            "complement": "np32",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np17",
+            "complement": "np14",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc13"
+        },
+        {
+            "anchor": "np17",
+            "complement": "np29",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc13"
+        },
+        {
+            "anchor": "np17",
+            "complement": "np0",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np17",
+            "complement": "np21",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np17",
+            "complement": "np26",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np17",
+            "complement": "np31",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np17",
+            "complement": "np32",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np17",
+            "complement": "np3",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc3"
+        },
+        {
+            "anchor": "np17",
+            "complement": "np25",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc3"
+        },
+        {
+            "anchor": "np17",
+            "complement": "np28",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc3"
+        },
+        {
+            "anchor": "np18",
+            "complement": "np14",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc13"
+        },
+        {
+            "anchor": "np18",
+            "complement": "np29",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc13"
+        },
+        {
+            "anchor": "np18",
+            "complement": "np3",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc3"
+        },
+        {
+            "anchor": "np18",
+            "complement": "np25",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc3"
+        },
+        {
+            "anchor": "np18",
+            "complement": "np28",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc3"
+        },
+        {
+            "anchor": "np18",
+            "complement": "np2",
+            "preposition": "on",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np18",
+            "complement": "np17",
+            "preposition": "on",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np18",
+            "complement": "np22",
+            "preposition": "on",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np18",
+            "complement": "np23",
+            "preposition": "on",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np18",
+            "complement": "np2",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np18",
+            "complement": "np17",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np18",
+            "complement": "np22",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np18",
+            "complement": "np23",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np18",
+            "complement": "np0",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np18",
+            "complement": "np21",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np18",
+            "complement": "np26",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np18",
+            "complement": "np31",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np18",
+            "complement": "np32",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np19",
+            "complement": "np14",
+            "preposition": "by",
+            "complement_coref_cluster_id": "cc13"
+        },
+        {
+            "anchor": "np19",
+            "complement": "np29",
+            "preposition": "by",
+            "complement_coref_cluster_id": "cc13"
+        },
+        {
+            "anchor": "np19",
+            "complement": "np3",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc3"
+        },
+        {
+            "anchor": "np19",
+            "complement": "np25",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc3"
+        },
+        {
+            "anchor": "np19",
+            "complement": "np28",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc3"
+        },
+        {
+            "anchor": "np19",
+            "complement": "np2",
+            "preposition": "on",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np19",
+            "complement": "np17",
+            "preposition": "on",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np19",
+            "complement": "np22",
+            "preposition": "on",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np19",
+            "complement": "np23",
+            "preposition": "on",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np19",
+            "complement": "np0",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np19",
+            "complement": "np21",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np19",
+            "complement": "np26",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np19",
+            "complement": "np31",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np19",
+            "complement": "np32",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np20",
+            "complement": "np14",
+            "preposition": "between",
+            "complement_coref_cluster_id": "cc13"
+        },
+        {
+            "anchor": "np20",
+            "complement": "np29",
+            "preposition": "between",
+            "complement_coref_cluster_id": "cc13"
+        },
+        {
+            "anchor": "np20",
+            "complement": "np2",
+            "preposition": "between",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np20",
+            "complement": "np17",
+            "preposition": "between",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np20",
+            "complement": "np22",
+            "preposition": "between",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np20",
+            "complement": "np23",
+            "preposition": "between",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np20",
+            "complement": "np2",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np20",
+            "complement": "np17",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np20",
+            "complement": "np22",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np20",
+            "complement": "np23",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np20",
+            "complement": "np0",
+            "preposition": "between",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np20",
+            "complement": "np21",
+            "preposition": "between",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np20",
+            "complement": "np26",
+            "preposition": "between",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np20",
+            "complement": "np31",
+            "preposition": "between",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np20",
+            "complement": "np32",
+            "preposition": "between",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np20",
+            "complement": "np0",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np20",
+            "complement": "np21",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np20",
+            "complement": "np26",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np20",
+            "complement": "np31",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np20",
+            "complement": "np32",
+            "preposition": "to",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np21",
+            "complement": "np44",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc32"
+        },
+        {
+            "anchor": "np22",
+            "complement": "np14",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc13"
+        },
+        {
+            "anchor": "np22",
+            "complement": "np29",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc13"
+        },
+        {
+            "anchor": "np22",
+            "complement": "np3",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc3"
+        },
+        {
+            "anchor": "np22",
+            "complement": "np25",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc3"
+        },
+        {
+            "anchor": "np22",
+            "complement": "np28",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc3"
+        },
+        {
+            "anchor": "np22",
+            "complement": "np0",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np22",
+            "complement": "np21",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np22",
+            "complement": "np26",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np22",
+            "complement": "np31",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np22",
+            "complement": "np32",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np23",
+            "complement": "np14",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc13"
+        },
+        {
+            "anchor": "np23",
+            "complement": "np29",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc13"
+        },
+        {
+            "anchor": "np23",
+            "complement": "np3",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc3"
+        },
+        {
+            "anchor": "np23",
+            "complement": "np25",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc3"
+        },
+        {
+            "anchor": "np23",
+            "complement": "np28",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc3"
+        },
+        {
+            "anchor": "np23",
+            "complement": "np0",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np23",
+            "complement": "np21",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np23",
+            "complement": "np26",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np23",
+            "complement": "np31",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np23",
+            "complement": "np32",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np24",
+            "complement": "np42",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc29"
+        },
+        {
+            "anchor": "np24",
+            "complement": "np3",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc3"
+        },
+        {
+            "anchor": "np24",
+            "complement": "np25",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc3"
+        },
+        {
+            "anchor": "np24",
+            "complement": "np28",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc3"
+        },
+        {
+            "anchor": "np24",
+            "complement": "np0",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np24",
+            "complement": "np21",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np24",
+            "complement": "np26",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np24",
+            "complement": "np31",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np24",
+            "complement": "np32",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np25",
+            "complement": "np0",
+            "preposition": "member(s) of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np25",
+            "complement": "np21",
+            "preposition": "member(s) of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np25",
+            "complement": "np26",
+            "preposition": "member(s) of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np25",
+            "complement": "np31",
+            "preposition": "member(s) of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np25",
+            "complement": "np32",
+            "preposition": "member(s) of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np25",
+            "complement": "np42",
+            "preposition": "member(s) of",
+            "complement_coref_cluster_id": "cc29"
+        },
+        {
+            "anchor": "np25",
+            "complement": "np44",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc32"
+        },
+        {
+            "anchor": "np26",
+            "complement": "np42",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc29"
+        },
+        {
+            "anchor": "np26",
+            "complement": "np44",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc32"
+        },
+        {
+            "anchor": "np28",
+            "complement": "np0",
+            "preposition": "member(s) of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np28",
+            "complement": "np21",
+            "preposition": "member(s) of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np28",
+            "complement": "np26",
+            "preposition": "member(s) of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np28",
+            "complement": "np31",
+            "preposition": "member(s) of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np28",
+            "complement": "np32",
+            "preposition": "member(s) of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np28",
+            "complement": "np42",
+            "preposition": "member(s) of",
+            "complement_coref_cluster_id": "cc29"
+        },
+        {
+            "anchor": "np28",
+            "complement": "np44",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc32"
+        },
+        {
+            "anchor": "np30",
+            "complement": "np14",
+            "preposition": "for",
+            "complement_coref_cluster_id": "cc13"
+        },
+        {
+            "anchor": "np30",
+            "complement": "np29",
+            "preposition": "for",
+            "complement_coref_cluster_id": "cc13"
+        },
+        {
+            "anchor": "np30",
+            "complement": "np2",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np30",
+            "complement": "np17",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np30",
+            "complement": "np22",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np30",
+            "complement": "np23",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc2"
+        },
+        {
+            "anchor": "np30",
+            "complement": "np0",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np30",
+            "complement": "np21",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np30",
+            "complement": "np26",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np30",
+            "complement": "np31",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np30",
+            "complement": "np32",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np31",
+            "complement": "np42",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc29"
+        },
+        {
+            "anchor": "np31",
+            "complement": "np44",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc32"
+        },
+        {
+            "anchor": "np32",
+            "complement": "np44",
+            "preposition": "from",
+            "complement_coref_cluster_id": "cc32"
+        },
+        {
+            "anchor": "np33",
+            "complement": "np36",
+            "preposition": "by",
+            "complement_coref_cluster_id": "cc25"
+        },
+        {
+            "anchor": "np33",
+            "complement": "np37",
+            "preposition": "by",
+            "complement_coref_cluster_id": "cc25"
+        },
+        {
+            "anchor": "np33",
+            "complement": "np35",
+            "preposition": "under",
+            "complement_coref_cluster_id": "cc24"
+        },
+        {
+            "anchor": "np33",
+            "complement": "np34",
+            "preposition": "against",
+            "complement_coref_cluster_id": "cc23"
+        },
+        {
+            "anchor": "np33",
+            "complement": "np0",
+            "preposition": "by",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np33",
+            "complement": "np21",
+            "preposition": "by",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np33",
+            "complement": "np26",
+            "preposition": "by",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np33",
+            "complement": "np31",
+            "preposition": "by",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np33",
+            "complement": "np32",
+            "preposition": "by",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np33",
+            "complement": "np44",
+            "preposition": "in",
+            "complement_coref_cluster_id": "cc32"
+        },
+        {
+            "anchor": "np34",
+            "complement": "np42",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc29"
+        },
+        {
+            "anchor": "np34",
+            "complement": "np0",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np34",
+            "complement": "np21",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np34",
+            "complement": "np26",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np34",
+            "complement": "np31",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np34",
+            "complement": "np32",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np35",
+            "complement": "np36",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc25"
+        },
+        {
+            "anchor": "np35",
+            "complement": "np37",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc25"
+        },
+        {
+            "anchor": "np35",
+            "complement": "np33",
+            "preposition": "in",
+            "complement_coref_cluster_id": "cc22"
+        },
+        {
+            "anchor": "np35",
+            "complement": "np0",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np35",
+            "complement": "np21",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np35",
+            "complement": "np26",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np35",
+            "complement": "np31",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np35",
+            "complement": "np32",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np36",
+            "complement": "np0",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np36",
+            "complement": "np21",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np36",
+            "complement": "np26",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np36",
+            "complement": "np31",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np36",
+            "complement": "np32",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np36",
+            "complement": "np44",
+            "preposition": "in",
+            "complement_coref_cluster_id": "cc32"
+        },
+        {
+            "anchor": "np37",
+            "complement": "np0",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np37",
+            "complement": "np21",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np37",
+            "complement": "np26",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np37",
+            "complement": "np31",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np37",
+            "complement": "np32",
+            "preposition": "of",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np37",
+            "complement": "np44",
+            "preposition": "in",
+            "complement_coref_cluster_id": "cc32"
+        },
+        {
+            "anchor": "np38",
+            "complement": "np0",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np38",
+            "complement": "np21",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np38",
+            "complement": "np26",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np38",
+            "complement": "np31",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np38",
+            "complement": "np32",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc0"
+        },
+        {
+            "anchor": "np38",
+            "complement": "np33",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc22"
+        },
+        {
+            "anchor": "np38",
+            "complement": "np39",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc27"
+        },
+        {
+            "anchor": "np38",
+            "complement": "np40",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc28"
+        },
+        {
+            "anchor": "np38",
+            "complement": "np41",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc28"
+        },
+        {
+            "anchor": "np38",
+            "complement": "np42",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc29"
+        },
+        {
+            "anchor": "np38",
+            "complement": "np43",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc30"
+        },
+        {
+            "anchor": "np40",
+            "complement": "np43",
+            "preposition": "in",
+            "complement_coref_cluster_id": "cc30"
+        },
+        {
+            "anchor": "np41",
+            "complement": "np43",
+            "preposition": "in",
+            "complement_coref_cluster_id": "cc30"
+        },
+        {
+            "anchor": "np41",
+            "complement": "np42",
+            "preposition": "about",
+            "complement_coref_cluster_id": "cc29"
+        }
+    ],
+    "coref": [
+        {
+            "id": "cc0",
+            "members": [
+                "np0",
+                "np21",
+                "np26",
+                "np31",
+                "np32"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc1",
+            "members": [
+                "np1"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc2",
+            "members": [
+                "np2",
+                "np17",
+                "np22",
+                "np23"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc3",
+            "members": [
+                "np3",
+                "np25",
+                "np28"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc4",
+            "members": [
+                "np5"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc5",
+            "members": [
+                "np6"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc6",
+            "members": [
+                "np7"
+            ],
+            "np_type": "time/date/measurement"
+        },
+        {
+            "id": "cc7",
+            "members": [
+                "np8"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc8",
+            "members": [
+                "np9"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc9",
+            "members": [
+                "np10"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc10",
+            "members": [
+                "np11"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc11",
+            "members": [
+                "np12"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc12",
+            "members": [
+                "np13"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc13",
+            "members": [
+                "np14",
+                "np29"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc14",
+            "members": [
+                "np15"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc15",
+            "members": [
+                "np16"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc16",
+            "members": [
+                "np18"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc17",
+            "members": [
+                "np19"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc18",
+            "members": [
+                "np20"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc19",
+            "members": [
+                "np24"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc20",
+            "members": [
+                "np27"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc21",
+            "members": [
+                "np30"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc22",
+            "members": [
+                "np33"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc23",
+            "members": [
+                "np34"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc24",
+            "members": [
+                "np35"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc25",
+            "members": [
+                "np36",
+                "np37"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc26",
+            "members": [
+                "np38"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc27",
+            "members": [
+                "np39"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc28",
+            "members": [
+                "np40",
+                "np41"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc29",
+            "members": [
+                "np42"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc30",
+            "members": [
+                "np43"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc31",
+            "members": [
+                "np4"
+            ],
+            "np_type": "time/date/measurement"
+        },
+        {
+            "id": "cc32",
+            "members": [
+                "np44"
+            ],
+            "np_type": "standard"
+        }
+    ],
+    "metadata": {
+        "annotators": {
+            "coref_worker": 7,
+            "consolidator_worker": 7,
+            "np-relations_worker": [
+                13,
+                5
+            ]
+        },
+        "url": "https://en.wikinews.org/wiki/Church_of_Scientology_does_not_see_humor_in_website_dedicated_to_Tom_Cruise",
+        "source": "wiki_05_news.json"
+    }
+}

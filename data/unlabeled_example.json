@@ -1,0 +1,484 @@
+{
+    "id": "r1491",
+    "text": "UN agrees on reform document\n\nSeptember 17, 2005 \n\nA deal to reform the United Nations has been signed at the end of a summit marking the organisation's sixtieth anniversary. \nThe summit was the largest gathering of heads of state ever, with over 150 in attendance. During its three days, Syria was the only one of the 191 represented nations not to address the General Assembly. \nThe Secretary General, Kofi Annan, had put forward a wide-ranging set of reform proposals encompassing poverty, war, genocide, and reform of the organisation itself.",
+    "tokens": [
+        "UN",
+        "agrees",
+        "on",
+        "reform",
+        "document",
+        "\n\n",
+        "September",
+        "17",
+        ",",
+        "2005",
+        "\n\n",
+        "A",
+        "deal",
+        "to",
+        "reform",
+        "the",
+        "United",
+        "Nations",
+        "has",
+        "been",
+        "signed",
+        "at",
+        "the",
+        "end",
+        "of",
+        "a",
+        "summit",
+        "marking",
+        "the",
+        "organisation",
+        "'s",
+        "sixtieth",
+        "anniversary",
+        ".",
+        "\n",
+        "The",
+        "summit",
+        "was",
+        "the",
+        "largest",
+        "gathering",
+        "of",
+        "heads",
+        "of",
+        "state",
+        "ever",
+        ",",
+        "with",
+        "over",
+        "150",
+        "in",
+        "attendance",
+        ".",
+        "During",
+        "its",
+        "three",
+        "days",
+        ",",
+        "Syria",
+        "was",
+        "the",
+        "only",
+        "one",
+        "of",
+        "the",
+        "191",
+        "represented",
+        "nations",
+        "not",
+        "to",
+        "address",
+        "the",
+        "General",
+        "Assembly",
+        ".",
+        "\n",
+        "The",
+        "Secretary",
+        "General",
+        ",",
+        "Kofi",
+        "Annan",
+        ",",
+        "had",
+        "put",
+        "forward",
+        "a",
+        "wide",
+        "-",
+        "ranging",
+        "set",
+        "of",
+        "reform",
+        "proposals",
+        "encompassing",
+        "poverty",
+        ",",
+        "war",
+        ",",
+        "genocide",
+        ",",
+        "and",
+        "reform",
+        "of",
+        "the",
+        "organisation",
+        "itself",
+        "."
+    ],
+    "nps": {
+        "np0": {
+            "text": "UN",
+            "first_char": 0,
+            "last_char": 2,
+            "first_token": 0,
+            "last_token": 0,
+            "id": "np0"
+        },
+        "np1": {
+            "text": "reform document",
+            "first_char": 13,
+            "last_char": 28,
+            "first_token": 3,
+            "last_token": 4,
+            "id": "np1"
+        },
+        "np2": {
+            "text": "A deal",
+            "first_char": 51,
+            "last_char": 57,
+            "first_token": 11,
+            "last_token": 12,
+            "id": "np2"
+        },
+        "np3": {
+            "text": "the United Nations",
+            "first_char": 68,
+            "last_char": 86,
+            "first_token": 15,
+            "last_token": 17,
+            "id": "np3"
+        },
+        "np4": {
+            "text": "the end",
+            "first_char": 106,
+            "last_char": 113,
+            "first_token": 22,
+            "last_token": 23,
+            "id": "np4"
+        },
+        "np5": {
+            "text": "a summit",
+            "first_char": 117,
+            "last_char": 125,
+            "first_token": 25,
+            "last_token": 26,
+            "id": "np5"
+        },
+        "np6": {
+            "text": "the organisation's sixtieth anniversary",
+            "first_char": 134,
+            "last_char": 173,
+            "first_token": 28,
+            "last_token": 32,
+            "id": "np6"
+        },
+        "np7": {
+            "text": "The summit",
+            "first_char": 176,
+            "last_char": 186,
+            "first_token": 35,
+            "last_token": 36,
+            "id": "np7"
+        },
+        "np8": {
+            "text": "the largest gathering",
+            "first_char": 191,
+            "last_char": 212,
+            "first_token": 38,
+            "last_token": 40,
+            "id": "np8"
+        },
+        "np9": {
+            "text": "heads",
+            "first_char": 216,
+            "last_char": 221,
+            "first_token": 42,
+            "last_token": 42,
+            "id": "np9"
+        },
+        "np10": {
+            "text": "state",
+            "first_char": 225,
+            "last_char": 230,
+            "first_token": 44,
+            "last_token": 44,
+            "id": "np10"
+        },
+        "np11": {
+            "text": "attendance",
+            "first_char": 254,
+            "last_char": 264,
+            "first_token": 51,
+            "last_token": 51,
+            "id": "np11"
+        },
+        "np12": {
+            "text": "its three days",
+            "first_char": 273,
+            "last_char": 287,
+            "first_token": 54,
+            "last_token": 56,
+            "id": "np12"
+        },
+        "np13": {
+            "text": "Syria",
+            "first_char": 289,
+            "last_char": 294,
+            "first_token": 58,
+            "last_token": 58,
+            "id": "np13"
+        },
+        "np14": {
+            "text": "the 191 represented nations",
+            "first_char": 315,
+            "last_char": 342,
+            "first_token": 64,
+            "last_token": 67,
+            "id": "np14"
+        },
+        "np15": {
+            "text": "the General Assembly",
+            "first_char": 358,
+            "last_char": 378,
+            "first_token": 71,
+            "last_token": 73,
+            "id": "np15"
+        },
+        "np16": {
+            "text": "The Secretary General",
+            "first_char": 381,
+            "last_char": 402,
+            "first_token": 76,
+            "last_token": 78,
+            "id": "np16"
+        },
+        "np17": {
+            "text": "Kofi Annan",
+            "first_char": 404,
+            "last_char": 414,
+            "first_token": 80,
+            "last_token": 81,
+            "id": "np17"
+        },
+        "np18": {
+            "text": "a wide-ranging set",
+            "first_char": 432,
+            "last_char": 450,
+            "first_token": 86,
+            "last_token": 90,
+            "id": "np18"
+        },
+        "np19": {
+            "text": "reform proposals",
+            "first_char": 454,
+            "last_char": 470,
+            "first_token": 92,
+            "last_token": 93,
+            "id": "np19"
+        },
+        "np20": {
+            "text": "poverty",
+            "first_char": 484,
+            "last_char": 491,
+            "first_token": 95,
+            "last_token": 95,
+            "id": "np20"
+        },
+        "np21": {
+            "text": "war",
+            "first_char": 493,
+            "last_char": 496,
+            "first_token": 97,
+            "last_token": 97,
+            "id": "np21"
+        },
+        "np22": {
+            "text": "genocide",
+            "first_char": 498,
+            "last_char": 506,
+            "first_token": 99,
+            "last_token": 99,
+            "id": "np22"
+        },
+        "np23": {
+            "text": "reform",
+            "first_char": 512,
+            "last_char": 518,
+            "first_token": 102,
+            "last_token": 102,
+            "id": "np23"
+        },
+        "np24": {
+            "text": "the organisation",
+            "first_char": 522,
+            "last_char": 538,
+            "first_token": 104,
+            "last_token": 105,
+            "id": "np24"
+        },
+        "np25": {
+            "text": "itself",
+            "first_char": 539,
+            "last_char": 545,
+            "first_token": 106,
+            "last_token": 106,
+            "id": "np25"
+        }
+    },
+    "coref": [
+        {
+            "id": "cc0",
+            "members": [
+                "np0",
+                "np3",
+                "np24",
+                "np25"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc1",
+            "members": [
+                "np1"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc2",
+            "members": [
+                "np2"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc3",
+            "members": [
+                "np4"
+            ],
+            "np_type": "time/date/measurement"
+        },
+        {
+            "id": "cc4",
+            "members": [
+                "np5",
+                "np7",
+                "np8"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc5",
+            "members": [
+                "np6"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc6",
+            "members": [
+                "np9"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc7",
+            "members": [
+                "np10"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc8",
+            "members": [
+                "np11"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc9",
+            "members": [
+                "np12"
+            ],
+            "np_type": "time/date/measurement"
+        },
+        {
+            "id": "cc10",
+            "members": [
+                "np13"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc11",
+            "members": [
+                "np14"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc12",
+            "members": [
+                "np15"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc13",
+            "members": [
+                "np16",
+                "np17"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc14",
+            "members": [
+                "np18"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc15",
+            "members": [
+                "np19"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc16",
+            "members": [
+                "np20"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc17",
+            "members": [
+                "np21"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc18",
+            "members": [
+                "np22"
+            ],
+            "np_type": "standard"
+        },
+        {
+            "id": "cc19",
+            "members": [
+                "np23"
+            ],
+            "np_type": "standard"
+        }
+    ],
+    "metadata": {
+        "annotators": {
+            "coref_worker": 5,
+            "consolidator_worker": 0,
+            "np-relations_worker": [
+                1,
+                3
+            ]
+        },
+        "url": "https://en.wikinews.org/wiki/UN_agrees_on_reform_document",
+        "source": "wiki_05_news.json"
+    }
+}
