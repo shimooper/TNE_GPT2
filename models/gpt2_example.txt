@@ -1,0 +1,36 @@
+Input0:
+"
+The president of the united states of america met with the president of Urugauy
+
+Q: President of
+A:
+"
+
+Output0:
+Should continue ?
+Yes -> (3, 7)
+
+
+Input1:
+"
+The president of the united states of america
+
+Q: President of
+A: (3, 7)
+"
+
+Output1:
+Should continue ?
+Yes -> (-1, -1)
+
+Input2:
+"
+The president of the united states of america
+
+Q: President of
+A: (3, 7), (-1, -1)
+"
+
+Output2:
+Should continue ?
+No.
